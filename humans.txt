@@ -1,0 +1,34 @@
+/* PROJECT */
+
+Site Name:   Stephen Sabatini
+Site URL:    https://stephensabatini.com/
+Created:     2020/04/28
+Standards:   PHP7, HTML5, CSS3, JavaScript
+Web Design:  Stephen Sabatini
+
+
+/* AUTHOR */
+
+Name:        Stephen Sabatini
+Nickname:    Steve
+Title:       Senior Web Developer
+Location:    United States & Canada
+Site:        https://stephensabatini.com
+
+
+/* SOCIAL */
+
+GitHub:      https://github.com/stesab92
+LinkedIn:    https://linkedin.com/in/stephen-sabatini
+Twitter:     https://twitter.com/stesab92
+Facebook:    https://www.facebook.com/stesab92
+
+
+/* META */
+
+Built with: PHP, HTML, CSS, JavaScript, SASS, Node.js, npm, gulp
+
+
+/* THANKS */
+
+To everyone who shares, likes, comments, and contributes!

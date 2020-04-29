@@ -1,0 +1,22 @@
+{
+    "name": "Site Name",
+    "short_name": "Site Name",
+    "description": "Project description for Site Name",
+    "display": "standalone",
+    "start_url": "/",
+    "background_color": "#116581",
+    "scope": "/",
+    "theme_color": "#116581",
+    "icons": [
+    {
+        "src": "dist/images/cropped-favicon-192x192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+    },
+    {
+        "src": "dist/images/cropped-favicon-512x512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+    }
+  ]
+}
