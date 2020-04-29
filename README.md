@@ -55,7 +55,7 @@ In this project we use Node.js and Gulp to compile our assets and manage our dep
 
 ## Built With
 
-* [HTML5](https://www.php.net/) - Backend Language
+* [PHP](https://www.php.net/) - Backend Language
 * [HTML5](https://www.w3.org/TR/html/) - Frontend Markup Language
 * [CSS3](https://www.w3.org/TR/CSS/) - Frontend Stylesheet Language
 * [SASS](https://sass-lang.com/) - Backend Stylesheet Language
