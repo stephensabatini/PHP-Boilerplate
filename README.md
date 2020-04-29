@@ -10,7 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+What things you need to install the software and how to install them:
 
 [Node.js](https://nodejs.org/en/download/)
 
@@ -30,6 +30,11 @@ First, you will clone/download the boilerplate from the repository:
 Then, you will initialize the repository.
 
 `git init`
+
+
+Then, you will install dependencies:
+
+`npm install`
 
 
 ## Running the compilers
