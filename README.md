@@ -27,7 +27,7 @@ First, you will clone/download the boilerplate from the repository:
 `git clone git@github.com:stesab92/PHP-Boilerplate.git .`
 
 
-Then, you will initialize the repository.
+Then, you will initialize the repository:
 
 `git init`
 
@@ -44,7 +44,7 @@ In this project we use Node.js and Gulp to compile our assets and manage our dep
 `gulp` - Runs all of the compiler and watch tasks in parallel. (default)  
 `gulp run` - Runs all of the compiler tasks in parallel.  
 `gulp watch` - Runs all of the watch tasks in parallel.  
-`gulp clean` - Deletes any files or folders output by the compiler for a clean start. (script.js, script.min.js, style.css, style.min.css, compiled images)  
+`gulp clean` - Deletes any files or folders output by the compiler for a clean start. (index.js, index.min.js, index.css, index.min.css, compiled images)  
 `gulp sass` - Compile SCSS to CSS and combine files to style.css and style.min.css (minified).  
 `gulp js` - Compile JS and combine files to script.js and script.min.js (minified).  
 `gulp images` - Optimize any new images in the src/images directory to images.  
